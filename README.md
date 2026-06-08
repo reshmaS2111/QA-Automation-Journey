@@ -6,11 +6,7 @@ This repository contains my learning journey in:
 - API Testing
 - Manual Testing
 
-## Progress
 
-### Day 1
-- Repository Created
-- Project Structure Setup
 
 ## Tools
 - Java
